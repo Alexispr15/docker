@@ -1,0 +1,7 @@
+Pasos dir .git
+
+git status
+git add named.conf.option
+git status
+git commit -m "actualizando forwaders"
+git push origin master
